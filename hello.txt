@@ -1,2 +1,6 @@
 hello world1
+<<<<<<< HEAD
 hello python
+=======
+hello java
+hello C++
