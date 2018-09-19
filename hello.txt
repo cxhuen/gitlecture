@@ -7,3 +7,4 @@ hello shanghai
 hello hongqiao
 hello hangzhou
 hello chenxu
+hello beijing
