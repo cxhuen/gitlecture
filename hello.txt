@@ -5,7 +5,4 @@ hello C++
 hello pudong
 hello shanghai
 hello hongqiao
-hello hangzhou
-hello chenxu
-hello zhengzhou
 hello CMBC
